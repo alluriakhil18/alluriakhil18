@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil Varma Alluri</h1>
+<h1 align="center">Hello 👋, I'm Akhil Varma Alluri</h1>
 <h3 align="center">AI/ML Enthusiast | MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
